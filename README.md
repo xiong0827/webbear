@@ -25,4 +25,4 @@ log(text.htmlunescape(str))
 ...
 
 ##开源协议
-ISC
+ISC# webbear
